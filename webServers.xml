@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4951ecc0-7a11-4e2f-94ca-dbc73bd60d48" name="CuSakuraVpsProduction" url="http://160.16.70.142">
+        <fileTransfer host="160.16.70.142" port="10022" rootFolder="/home/catchup/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="10022" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a49443b3-b7ee-4a60-b7d4-f348402d27ab" name="BcSakuraVpsProduction" url="http://baserfoundation.org">
+        <fileTransfer host="219.94.232.189" port="22022" rootFolder="/home/basercms/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22022" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2588b4c2-ae8b-465c-acbd-de08d43ceed7" name="CuDemoTest" url="">
+        <fileTransfer host="e-catchup.jp" port="22" privateKey="$USER_HOME$/.ssh/catchup_new" rootFolder="/home/catchup/www/demo.e-catchup.jp" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
