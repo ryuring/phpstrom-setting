@@ -3,11 +3,11 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="ctp" type="PHP" />
-      <mapping pattern="recruit-key" type="PLAIN_TEXT" />
-      <mapping pattern="display.php" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping pattern="ordered_list.php" type="PLAIN_TEXT" />
+      <mapping pattern="display.php" type="PLAIN_TEXT" />
+      <mapping pattern="recruit-key" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
