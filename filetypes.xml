@@ -5,6 +5,7 @@
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="ownd_river" type="PLAIN_TEXT" />
       <mapping pattern="ordered_list.php" type="PLAIN_TEXT" />
       <mapping pattern="display.php" type="PLAIN_TEXT" />
       <mapping pattern="recruit-key" type="PLAIN_TEXT" />
