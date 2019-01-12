@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="ctp" type="PHP" />
+      <mapping pattern="addsite" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="ownd_river" type="PLAIN_TEXT" />
