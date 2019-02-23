@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="100df1dd-08b2-427f-bccc-878bd35c6211" name="RmConohaProduction" url="http://default.recruitmedia.cloud">
+        <fileTransfer host="150.95.156.209" port="22022" rootFolder="/var/www/html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22022" />
+        </fileTransfer>
+      </webServer>
       <webServer id="4951ecc0-7a11-4e2f-94ca-dbc73bd60d48" name="CuSakuraVpsProduction" url="http://160.16.70.142">
         <fileTransfer host="160.16.70.142" port="10022" rootFolder="/home/catchup/www/e-catchup" accessType="SFTP">
           <advancedOptions>
