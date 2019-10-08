@@ -13,6 +13,7 @@
       <mapping pattern="display.php" type="PLAIN_TEXT" />
       <mapping pattern="recruit-key" type="PLAIN_TEXT" />
       <mapping ext="14" type="PLAIN_TEXT" />
+      <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
