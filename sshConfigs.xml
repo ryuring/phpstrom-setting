@@ -5,7 +5,7 @@
       <sshConfig authType="PASSWORD" host="160.16.70.142" id="6e95d35a-feed-4284-ac22-084c67800e58" port="10022" customName="CuSakuraVpsProduction" nameFormat="CUSTOM" username="catchup" />
       <sshConfig authType="PASSWORD" host="219.94.232.189" id="b8b7bd5f-2f11-405e-a110-2531372ed22e" port="22022" customName="BcSakuraVpsProduction" nameFormat="CUSTOM" username="basercms" />
       <sshConfig host="e-catchup.jp" id="d540888b-e39f-40ab-8c8c-b8f67449cc82" keyPath="$USER_HOME$/.ssh/catchup_new" port="22" customName="CuDemoTest" nameFormat="CUSTOM" username="catchup" />
-      <sshConfig host="e-catchup.jp" id="bec1bc9a-af4c-4a38-84d7-b08e8d1caf47" keyPath="$USER_HOME$/.ssh/catchup_new" port="22" customName="CuDemoTest" nameFormat="CUSTOM" username="catchup" />
+      <sshConfig host="e-catchup.jp" id="b3093723-a8ec-4408-90c7-7db536d1f9f9" keyPath="$USER_HOME$/.ssh/catchup_new" port="22" customName="CuDemoTest" nameFormat="CUSTOM" username="catchup" />
     </configs>
   </component>
 </application>
