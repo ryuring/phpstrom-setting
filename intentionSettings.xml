@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="PHP/Make 'protected'" />
+    <ignoreAction name="PHP/Make 'public'" />
+    <ignoreAction name="PHP/Create new PHP Test" />
+    <ignoreAction name="PHP/Make 'private'" />
+  </component>
+</application>
