@@ -4,5 +4,7 @@
     <ignoreAction name="PHP/Make 'public'" />
     <ignoreAction name="PHP/Create new PHP Test" />
     <ignoreAction name="PHP/Make 'private'" />
+    <ignoreAction name="XML/Remove tag" />
+    <ignoreAction name="XML/Rearrange tag attributes" />
   </component>
 </application>
