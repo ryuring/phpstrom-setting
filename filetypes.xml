@@ -11,6 +11,7 @@
       <mapping pattern="Dockerfile-pma" type="PLAIN_TEXT" />
       <mapping pattern="ownd_river" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="4" type="PLAIN_TEXT" />
