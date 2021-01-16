@@ -129,6 +129,11 @@
         <option name="FOREGROUND" value="e9c062" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
+      <value>
+        <option name="BACKGROUND" value="1c261c" />
+      </value>
+    </option>
     <option name="COFFEESCRIPT.JAVASCRIPT_ID">
       <value>
         <option name="FOREGROUND" value="8f9d6a" />
@@ -777,6 +782,11 @@
         <option name="FOREGROUND" value="9b703f" />
       </value>
     </option>
+    <option name="HAML_RUBY_CODE">
+      <value>
+        <option name="BACKGROUND" value="1d261d" />
+      </value>
+    </option>
     <option name="HAML_STRING">
       <value>
         <option name="FOREGROUND" value="8f9d6a" />
@@ -848,7 +858,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="273627" />
+        <option name="BACKGROUND" value="222822" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
