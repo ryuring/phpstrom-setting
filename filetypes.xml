@@ -13,6 +13,7 @@
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="4" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
