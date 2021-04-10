@@ -24,7 +24,7 @@
       </set>
     </option>
   </component>
-  <component name="LiveEditOptions" useJBChromeExtension="true" />
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" />
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
