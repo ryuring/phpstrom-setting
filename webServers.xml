@@ -2,35 +2,31 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="100df1dd-08b2-427f-bccc-878bd35c6211" name="RmConohaProduction" url="http://default.recruitmedia.cloud">
-        <fileTransfer host="150.95.156.209" port="22022" rootFolder="/var/www/html" accessType="SFTP">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="150.95.156.209" port="22022" sshConfigId="d5425187-c9bb-44b4-ae67-3fcee0de0d6a" sshConfig="RmConohaProduction">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22022" />
         </fileTransfer>
       </webServer>
       <webServer id="4951ecc0-7a11-4e2f-94ca-dbc73bd60d48" name="CuSakuraVpsProduction" url="http://160.16.70.142">
-        <fileTransfer host="160.16.70.142" port="10022" rootFolder="/home/catchup/www/e-catchup" accessType="SFTP">
+        <fileTransfer rootFolder="/home/catchup/www/e-catchup" accessType="SFTP" host="160.16.70.142" port="10022" sshConfigId="6e95d35a-feed-4284-ac22-084c67800e58" sshConfig="CuSakuraVpsProduction">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="10022" />
         </fileTransfer>
       </webServer>
       <webServer id="a49443b3-b7ee-4a60-b7d4-f348402d27ab" name="BcSakuraVpsProduction" url="http://baserfoundation.org">
-        <fileTransfer host="219.94.232.189" port="22022" rootFolder="/home/basercms/www" accessType="SFTP">
+        <fileTransfer rootFolder="/home/basercms/www" accessType="SFTP" host="219.94.232.189" port="22022" sshConfigId="b8b7bd5f-2f11-405e-a110-2531372ed22e" sshConfig="BcSakuraVpsProduction">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22022" />
         </fileTransfer>
       </webServer>
       <webServer id="2588b4c2-ae8b-465c-acbd-de08d43ceed7" name="CuDemoTest" url="">
-        <fileTransfer host="e-catchup.jp" port="22" privateKey="$USER_HOME$/.ssh/catchup_new" rootFolder="/home/catchup/www/demo.e-catchup.jp" accessType="SFTP" keyPair="true">
+        <fileTransfer rootFolder="/home/catchup/www/demo.e-catchup.jp/kakikuken" accessType="SFTP" host="e-catchup.jp" port="22" sshConfigId="d540888b-e39f-40ab-8c8c-b8f67449cc82" sshConfig="CuDemoTest" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
