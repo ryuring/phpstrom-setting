@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Service Provider Aggregate" />
+      <item value="set League Container" />
       <item value="The deserialized body data. This will typically be in an array or object" />
       <item value="Certification" />
       <item value="Exception thrown if an error which can only be found on runtime occurs" />
@@ -9,8 +11,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="5" />
-        <entry key="JAPANESE" value="4" />
+        <entry key="ENGLISH" value="8" />
+        <entry key="JAPANESE" value="7" />
       </map>
     </option>
   </component>
