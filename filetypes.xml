@@ -7,8 +7,8 @@
       <mapping pattern="ordered_list.php" type="PLAIN_TEXT" />
       <mapping pattern="display.php" type="PLAIN_TEXT" />
       <mapping pattern="deletesite" type="PLAIN_TEXT" />
-      <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="recruit-key" type="PLAIN_TEXT" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="addsite" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-pma" type="PLAIN_TEXT" />
       <mapping pattern="ownd_river" type="PLAIN_TEXT" />
