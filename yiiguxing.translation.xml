@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="seek" />
       <item value="Service Provider Aggregate" />
       <item value="set League Container" />
       <item value="The deserialized body data. This will typically be in an array or object" />
@@ -11,12 +12,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="8" />
-        <entry key="JAPANESE" value="7" />
+        <entry key="ENGLISH" value="9" />
+        <entry key="JAPANESE" value="8" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621658171556" />
+    <option name="lastTrimTime" value="1622226011931" />
   </component>
 </application>
