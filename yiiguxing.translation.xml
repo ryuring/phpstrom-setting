@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Add a validation rule to ensure that a field contains a scalar" />
       <item value="seek" />
       <item value="Service Provider Aggregate" />
       <item value="set League Container" />
@@ -12,12 +13,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="9" />
-        <entry key="JAPANESE" value="8" />
+        <entry key="ENGLISH" value="10" />
+        <entry key="JAPANESE" value="9" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622687513193" />
+    <option name="lastTrimTime" value="1624587848904" />
   </component>
 </application>
