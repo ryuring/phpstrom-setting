@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remaining Parts" />
       <item value="prepare" />
       <item value="require Presence" />
       <item value="sb instagram twicedaily" />
@@ -18,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="15" />
-        <entry key="JAPANESE" value="14" />
+        <entry key="ENGLISH" value="16" />
+        <entry key="JAPANESE" value="15" />
       </map>
     </option>
   </component>
