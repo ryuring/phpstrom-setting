@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="yield" />
       <item value="Set the names of parameters that will persisted automatically" />
       <item value="Promote a route (by default, the last one added) to the beginning of the list" />
       <item value="Asserts that two variables have the same type and value." />
@@ -24,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="21" />
-        <entry key="JAPANESE" value="20" />
+        <entry key="ENGLISH" value="22" />
+        <entry key="JAPANESE" value="21" />
       </map>
     </option>
   </component>
