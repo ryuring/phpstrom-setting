@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="emit" />
+      <item value="register" />
       <item value="evaluate" />
       <item value="and parsinggenerating URLs with the routes it contains." />
       <item value="Provides an interface for addingremoving routes" />
@@ -28,12 +30,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="25" />
-        <entry key="JAPANESE" value="24" />
+        <entry key="ENGLISH" value="27" />
+        <entry key="JAPANESE" value="26" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629425654735" />
+    <option name="lastTrimTime" value="1630118838634" />
   </component>
 </application>
