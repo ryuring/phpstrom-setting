@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Useful when converting request data into entities" />
+      <item value="Contains logic to convert array data into entities" />
       <item value="emit" />
       <item value="register" />
       <item value="evaluate" />
@@ -36,6 +38,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639825831097" />
+    <option name="lastTrimTime" value="1642839801099" />
   </component>
 </application>
