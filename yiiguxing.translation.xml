@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="- `validate`: Set to false to disable validation, true to validate each record before saving, 'first' to validate all records before any are saved (default), or 'only' to only validate the records, but not save them. - `atomic`: If true (default), will attempt to save all records in a single transaction. Should be set to false if databasetable does not support transactions. - `fieldList`: Equivalent to the fieldList parameter in Model::save(). It should be an associate array with model name as key and array of fields as value. Eg." />
       <item value="Useful when converting request data into entities" />
       <item value="Contains logic to convert array data into entities" />
       <item value="emit" />
