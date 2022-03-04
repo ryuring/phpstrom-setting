@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="2494" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="This method will by default persist entities belonging to associated tables, whenever a dirty property matching the name of the property name set for an association in this table. It is possible to control what associations will be saved and to pass additional option for saving them." />
+      <item value="When merging HasMany or BelongsToMany associations, all the entities in the `data` array will appear, those that can be matched by primary key will get the data merged, but those that cannot, will be discarded." />
+      <item value="You can limit fields that will be present in the merged entity by passing the `fields` option, which is also accepted for associations:" />
       <item value="The data to prepare" />
       <item value="prepare" />
       <item value="_prepare Data And Options" />
@@ -42,8 +45,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="32" />
-        <entry key="JAPANESE" value="31" />
+        <entry key="ENGLISH" value="35" />
+        <entry key="JAPANESE" value="34" />
       </map>
     </option>
   </component>
