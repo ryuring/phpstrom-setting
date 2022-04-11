@@ -6,6 +6,7 @@
       <mapping pattern="aaa" type="AUTO_DETECTED" />
       <mapping pattern="sess_d12cb370021ee3ec66b24c379c157948" type="AUTO_DETECTED" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="recruit-key" type="PLAIN_TEXT" />
       <mapping pattern="ownd_river" type="PLAIN_TEXT" />
       <mapping pattern="deletesite" type="PLAIN_TEXT" />
