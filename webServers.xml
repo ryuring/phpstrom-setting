@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="a49443b3-b7ee-4a60-b7d4-f348402d27ab" name="BcSakuraVpsProduction" url="">
+        <fileTransfer rootFolder="/home/basercms/www/baserfoundation.org" accessType="SFTP" host="219.94.232.189" port="22022" sshConfigId="b8b7bd5f-2f11-405e-a110-2531372ed22e" sshConfig="BcSakuraVpsProduction">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="100df1dd-08b2-427f-bccc-878bd35c6211" name="RmConohaProduction" url="http://default.recruitmedia.cloud">
         <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="150.95.156.209" port="22022" sshConfigId="d5425187-c9bb-44b4-ae67-3fcee0de0d6a" sshConfig="RmConohaProduction">
           <advancedOptions>
