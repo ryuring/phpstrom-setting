@@ -3,10 +3,13 @@
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
       <mapping pattern="sess_bf3d7a4d40da43d51fd4a2a0dab95e04" type="AUTO_DETECTED" />
+      <mapping pattern="myapp_cake_model_default_content_folders" type="AUTO_DETECTED" />
       <mapping pattern="unimplemented_unittest .md" type="AUTO_DETECTED" />
       <mapping pattern="aaa" type="AUTO_DETECTED" />
       <mapping pattern="sess_d12cb370021ee3ec66b24c379c157948" type="AUTO_DETECTED" />
+      <mapping pattern="myapp_cake_model_default_contents" type="AUTO_DETECTED" />
       <mapping pattern=".env_mysql" type="PLAIN_TEXT" />
+      <mapping pattern="myapp_cake_model_default_search_indexes" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="recruit-key" type="PLAIN_TEXT" />
