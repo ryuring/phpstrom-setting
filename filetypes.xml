@@ -7,6 +7,7 @@
       <mapping pattern="unimplemented_unittest .md" type="AUTO_DETECTED" />
       <mapping pattern="aaa" type="AUTO_DETECTED" />
       <mapping pattern="sess_d12cb370021ee3ec66b24c379c157948" type="AUTO_DETECTED" />
+      <mapping pattern="mente" type="AUTO_DETECTED" />
       <mapping pattern="myapp_cake_model_default_contents" type="AUTO_DETECTED" />
       <mapping pattern=".env_mysql" type="PLAIN_TEXT" />
       <mapping pattern="myapp_cake_model_default_search_indexes" type="PLAIN_TEXT" />
