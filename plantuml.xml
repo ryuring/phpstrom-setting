@@ -4,7 +4,7 @@
     <option name="customPlantumlJarPath" value="/opt/homebrew/bin/plantuml" />
     <option name="dotExecutable" value="/opt/homebrew/bin/dot" />
     <option name="includedPaths" value="" />
-    <option name="lastBundledVersion" value="1.2021.7" />
+    <option name="lastBundledVersion" value="1.2022.5" />
     <option name="usePreferentiallyGRAPHIZ_DOT" value="true" />
   </component>
 </application>
