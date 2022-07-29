@@ -1,10 +1,5 @@
 <application>
   <component name="LightEdit">
-    <option name="sessionFiles">
-      <list>
-        <option value="file:///PluginCollection.php" />
-      </list>
-    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
@@ -19,7 +14,7 @@
       </list>
     </option>
     <option name="frameInfo">
-      <frame x="1990" y="26" width="1680" height="1025" />
+      <frame x="1920" y="26" width="1680" height="1025" />
     </option>
     <option name="preferredMode" value="LightEdit" />
   </component>
