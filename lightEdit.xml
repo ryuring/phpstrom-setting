@@ -1,5 +1,10 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file:///Volumes/GoogleDrive/マイドライブ/キャッチアップ/CU_経営/3_プロジェクト/2021_ucmitz開発/タスク/LOCAL_TODO.md" />
+      </list>
+    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
@@ -14,7 +19,7 @@
       </list>
     </option>
     <option name="frameInfo">
-      <frame x="1680" y="25" width="1920" height="1175" extendedState="6" />
+      <frame x="1680" y="25" width="1920" height="1055" extendedState="6" />
     </option>
     <option name="preferredMode" value="LightEdit" />
   </component>
