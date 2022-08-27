@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="2494" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Fixture Strategy Interface" />
       <item value="Define fallback values for required constants and configuration. To customize constants and configuration remove this require and define the data required by your plugin here." />
       <item value="and define the data required by your plugin here." />
       <item value="To customize constants and configuration remove this require" />
@@ -54,12 +55,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="44" />
-        <entry key="JAPANESE" value="43" />
+        <entry key="ENGLISH" value="45" />
+        <entry key="JAPANESE" value="44" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657950940764" />
+    <option name="lastTrimTime" value="1661572024021" />
   </component>
 </application>
