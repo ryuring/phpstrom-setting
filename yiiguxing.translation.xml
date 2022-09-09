@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="2494" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="verify" />
+      <item value="get the maximum index value in the table." />
       <item value="Optionally, the stripped characters can also be specified using the charlist parameter." />
       <item value="Optionally, the stripped characters can also be specified using" />
       <item value="Fixture Strategy Interface" />
@@ -51,13 +53,11 @@
       <item value="set League Container" />
       <item value="The deserialized body data. This will typically be in an array or object" />
       <item value="Certification" />
-      <item value="Exception thrown if an error which can only be found on runtime occurs" />
-      <item value="Either the classname an interface or name resolves to" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="47" />
-        <entry key="JAPANESE" value="46" />
+        <entry key="ENGLISH" value="49" />
+        <entry key="JAPANESE" value="48" />
       </map>
     </option>
   </component>
