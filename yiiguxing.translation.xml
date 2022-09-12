@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="2494" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Dialect" />
       <item value="If secureAttributes is set, these HTML attributes will be merged into the hidden input tags generated for the Security Component. This is especially useful to set HTML5 attributes like 'form'." />
       <item value="Generates a hidden field with a security hash based on the fields used in the form." />
       <item value="identical" />
@@ -52,16 +53,15 @@
       <item value="Checks to see if there are enough posts available to create" />
       <item value="Add a validation rule to ensure that a field contains a scalar" />
       <item value="seek" />
-      <item value="Service Provider Aggregate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="52" />
-        <entry key="JAPANESE" value="51" />
+        <entry key="ENGLISH" value="53" />
+        <entry key="JAPANESE" value="52" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662448572548" />
+    <option name="lastTrimTime" value="1662981057717" />
   </component>
 </application>
