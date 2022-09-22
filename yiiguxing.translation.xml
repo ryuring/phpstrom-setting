@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="2494" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Gets a representation of the elements in the tree as a flat list where the keys are the primary key for the table and the values are the display field for the table. Values are prefixed to visually indicate relative depth in the tree." />
       <item value="Build the fixtures table schema from the fields property." />
       <item value="Test Fixture" />
       <item value="Constraints Interface" />
@@ -52,12 +53,11 @@
       <item value="marshaller" />
       <item value="remaining Parts" />
       <item value="require Presence" />
-      <item value="sb instagram twicedaily" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="57" />
-        <entry key="JAPANESE" value="56" />
+        <entry key="ENGLISH" value="58" />
+        <entry key="JAPANESE" value="57" />
       </map>
     </option>
   </component>
