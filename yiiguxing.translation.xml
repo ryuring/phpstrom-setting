@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="2494" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Add a validation rule to ensure that a field contains a scalar." />
       <item value="Returns camelBacked version of an underscored string." />
       <item value="Set logs to different files so they don't have permission conflicts." />
       <item value="Gets a representation of the elements in the tree as a flat list where the keys are the primary key for the table and the values are the display field for the table. Values are prefixed to visually indicate relative depth in the tree." />
@@ -52,16 +53,15 @@
       <item value="Promote a route (by default, the last one added) to the beginning of the list" />
       <item value="Asserts that two variables have the same type and value." />
       <item value="marshal" />
-      <item value="marshaller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="60" />
-        <entry key="JAPANESE" value="59" />
+        <entry key="ENGLISH" value="61" />
+        <entry key="JAPANESE" value="60" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664408177319" />
+    <option name="lastTrimTime" value="1664865232003" />
   </component>
 </application>
