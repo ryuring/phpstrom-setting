@@ -2,9 +2,7 @@
   <component name="LightEdit">
     <option name="sessionFiles">
       <list>
-        <option value="file://$USER_HOME$/Downloads/logiless-git/corp-site-wp-theme/style.css" />
-        <option value="file://$USER_HOME$/Downloads/logiless-git/service-site-wp-theme/dist/style/logiless.css" />
-        <option value="file:///AbstractLocator.php" />
+        <option value="file:///ValidationRule.php" />
       </list>
     </option>
     <option name="supportedFilePatterns">
