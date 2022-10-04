@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="2494" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="If you need to set complex expressions as order conditions" />
       <item value="The alias for a single rule or multiple rules array" />
       <item value="Add a validation rule to ensure that a field contains a scalar." />
       <item value="Returns camelBacked version of an underscored string." />
@@ -52,12 +53,11 @@
       <item value="yield" />
       <item value="Set the names of parameters that will persisted automatically" />
       <item value="Promote a route (by default, the last one added) to the beginning of the list" />
-      <item value="Asserts that two variables have the same type and value." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="62" />
-        <entry key="JAPANESE" value="61" />
+        <entry key="ENGLISH" value="63" />
+        <entry key="JAPANESE" value="62" />
       </map>
     </option>
   </component>
