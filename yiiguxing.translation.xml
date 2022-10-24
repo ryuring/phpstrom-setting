@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The `{prefix}` prefix did not start with an upper case character. &quot; . 'Routing prefixes should be defined as CamelCase values. ' . 'Prefix inflection will be removed in 5.0" />
       <item value="Auxiliary function used to automatically alter the value of both the left and right columns by a certain amount that match the passed conditions" />
       <item value="Will soft delete the entity provided. Will remove rows from any dependent associations, and clear out join tables for BelongsToMany associations." />
       <item value="inheritDoc" />
@@ -53,12 +54,11 @@
       <item value="emit" />
       <item value="register" />
       <item value="evaluate" />
-      <item value="and parsinggenerating URLs with the routes it contains." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="66" />
-        <entry key="JAPANESE" value="65" />
+        <entry key="ENGLISH" value="67" />
+        <entry key="JAPANESE" value="66" />
       </map>
     </option>
   </component>
