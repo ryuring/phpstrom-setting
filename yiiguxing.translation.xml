@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Whether to execute the worker inside a database transaction." />
+      <item value="Sets whether the records on the target table are dependent on the source table." />
       <item value="Set the names of parameters that will be converted into passed parameters" />
       <item value="The `{prefix}` prefix did not start with an upper case character. &quot; . 'Routing prefixes should be defined as CamelCase values. ' . 'Prefix inflection will be removed in 5.0" />
       <item value="Auxiliary function used to automatically alter the value of both the left and right columns by a certain amount that match the passed conditions" />
@@ -52,17 +54,15 @@
       <item value="- `validate`: Set to false to disable validation, true to validate each record before saving, 'first' to validate all records before any are saved (default), or 'only' to only validate the records, but not save them. - `atomic`: If true (default), will attempt to save all records in a single transaction. Should be set to false if databasetable does not support transactions. - `fieldList`: Equivalent to the fieldList parameter in Model::save(). It should be an associate array with model name as key and array of fields as value. Eg." />
       <item value="Useful when converting request data into entities" />
       <item value="Contains logic to convert array data into entities" />
-      <item value="emit" />
-      <item value="register" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="68" />
-        <entry key="JAPANESE" value="67" />
+        <entry key="ENGLISH" value="70" />
+        <entry key="JAPANESE" value="69" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666595069730" />
+    <option name="lastTrimTime" value="1667115546782" />
   </component>
 </application>
