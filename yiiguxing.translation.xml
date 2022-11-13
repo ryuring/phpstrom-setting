@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Human name giving to this particular instance. Multiple objects representing the same database table can exist by using different aliases." />
       <item value="No builder-&gt;applyMiddleware() here." />
       <item value="complete" />
       <item value="Internally redirects one action to another. Does not perform another HTTP request unlike Controller::redirect()" />
@@ -53,12 +54,11 @@
       <item value="_prepare Data And Options" />
       <item value="A list of options for the object hydration" />
       <item value="テスト" />
-      <item value="テスト0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="75" />
-        <entry key="JAPANESE" value="74" />
+        <entry key="ENGLISH" value="76" />
+        <entry key="JAPANESE" value="75" />
       </map>
     </option>
   </component>
