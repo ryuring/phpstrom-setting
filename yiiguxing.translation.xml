@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="describe" />
       <item value="Human name giving to this particular instance. Multiple objects representing the same database table can exist by using different aliases." />
       <item value="No builder-&gt;applyMiddleware() here." />
       <item value="complete" />
@@ -53,16 +54,15 @@
       <item value="prepare" />
       <item value="_prepare Data And Options" />
       <item value="A list of options for the object hydration" />
-      <item value="テスト" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="76" />
-        <entry key="JAPANESE" value="75" />
+        <entry key="ENGLISH" value="77" />
+        <entry key="JAPANESE" value="76" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668250576963" />
+    <option name="lastTrimTime" value="1669855452194" />
   </component>
 </application>
