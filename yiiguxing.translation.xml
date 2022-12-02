@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ensure you have loaded the `FormProtectionComponent`" />
       <item value="Instructions" />
       <item value="constraint" />
       <item value="describe" />
@@ -53,12 +54,11 @@
       <item value="When merging HasMany or BelongsToMany associations, all the entities in the `data` array will appear, those that can be matched by primary key will get the data merged, but those that cannot, will be discarded." />
       <item value="You can limit fields that will be present in the merged entity by passing the `fields` option, which is also accepted for associations:" />
       <item value="The data to prepare" />
-      <item value="prepare" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="79" />
-        <entry key="JAPANESE" value="78" />
+        <entry key="ENGLISH" value="80" />
+        <entry key="JAPANESE" value="79" />
       </map>
     </option>
   </component>
