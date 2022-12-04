@@ -10,10 +10,13 @@
       <mapping pattern="docker" type="AUTO_DETECTED" />
       <mapping pattern="mente" type="AUTO_DETECTED" />
       <mapping pattern="myapp_cake_model_default_baser_core_phinxlog" type="AUTO_DETECTED" />
+      <mapping pattern="myapp_cake_model_debug_kit_panels" type="AUTO_DETECTED" />
       <mapping pattern="myapp_cake_model_default_contents" type="AUTO_DETECTED" />
+      <mapping ext="en_us" type="AUTO_DETECTED" />
       <mapping pattern=".env_mysql" type="PLAIN_TEXT" />
       <mapping pattern="myapp_cake_model_default_search_indexes" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
+      <mapping pattern="myapp_cake_model_debug_kit_requests" type="PLAIN_TEXT" />
       <mapping pattern="myapp_cake_model_default_login_stores" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="recruit-key" type="PLAIN_TEXT" />
