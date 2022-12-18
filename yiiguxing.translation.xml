@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="check" />
       <item value="Custom finder method which can be used to return the list of nodes from the root to a specific node in the tree. This custom finder requires that the key 'for' is passed in the options containing the id of the node to get its path for." />
       <item value="Checks if all table name + column name combinations used for queries fit into the max length allowed by database driver." />
       <item value="Ensure you have loaded the `FormProtectionComponent`" />
@@ -53,16 +54,15 @@
       <item value="Disabling auto-fixtures is deprecated and only available using FixtureInjector fixture system" />
       <item value="incorrect" />
       <item value="This method will by default persist entities belonging to associated tables, whenever a dirty property matching the name of the property name set for an association in this table. It is possible to control what associations will be saved and to pass additional option for saving them." />
-      <item value="When merging HasMany or BelongsToMany associations, all the entities in the `data` array will appear, those that can be matched by primary key will get the data merged, but those that cannot, will be discarded." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="82" />
-        <entry key="JAPANESE" value="81" />
+        <entry key="ENGLISH" value="83" />
+        <entry key="JAPANESE" value="82" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1670320332460" />
+    <option name="lastTrimTime" value="1671333873696" />
   </component>
 </application>
