@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Whether there are more results to be fetched from the iterator" />
       <item value="check" />
       <item value="Custom finder method which can be used to return the list of nodes from the root to a specific node in the tree. This custom finder requires that the key 'for' is passed in the options containing the id of the node to get its path for." />
       <item value="Checks if all table name + column name combinations used for queries fit into the max length allowed by database driver." />
@@ -53,12 +54,11 @@
       <item value="4.3.0 Disabling auto-fixtures is deprecated and only available using FixtureInjector fixture system." />
       <item value="Disabling auto-fixtures is deprecated and only available using FixtureInjector fixture system" />
       <item value="incorrect" />
-      <item value="This method will by default persist entities belonging to associated tables, whenever a dirty property matching the name of the property name set for an association in this table. It is possible to control what associations will be saved and to pass additional option for saving them." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="83" />
-        <entry key="JAPANESE" value="82" />
+        <entry key="ENGLISH" value="84" />
+        <entry key="JAPANESE" value="83" />
       </map>
     </option>
   </component>
