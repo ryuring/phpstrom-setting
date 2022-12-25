@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Similar to reload() except that this doesn't reset all global state, as that leads to incorrect behavior in some plugin test case scenarios." />
       <item value="Whether there are more results to be fetched from the iterator" />
       <item value="check" />
       <item value="Custom finder method which can be used to return the list of nodes from the root to a specific node in the tree. This custom finder requires that the key 'for' is passed in the options containing the id of the node to get its path for." />
@@ -53,16 +54,15 @@
       <item value="legacy fixtures are managed by FixtureInjector" />
       <item value="4.3.0 Disabling auto-fixtures is deprecated and only available using FixtureInjector fixture system." />
       <item value="Disabling auto-fixtures is deprecated and only available using FixtureInjector fixture system" />
-      <item value="incorrect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="84" />
-        <entry key="JAPANESE" value="83" />
+        <entry key="ENGLISH" value="85" />
+        <entry key="JAPANESE" value="84" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1671333873696" />
+    <option name="lastTrimTime" value="1671945536628" />
   </component>
 </application>
