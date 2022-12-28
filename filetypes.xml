@@ -8,6 +8,7 @@
       <mapping pattern="aaa" type="AUTO_DETECTED" />
       <mapping pattern="sess_d12cb370021ee3ec66b24c379c157948" type="AUTO_DETECTED" />
       <mapping pattern="docker" type="AUTO_DETECTED" />
+      <mapping pattern="dump" type="AUTO_DETECTED" />
       <mapping pattern="mente" type="AUTO_DETECTED" />
       <mapping pattern="myapp_cake_model_default_baser_core_phinxlog" type="AUTO_DETECTED" />
       <mapping pattern="myapp_cake_model_debug_kit_panels" type="AUTO_DETECTED" />
@@ -26,6 +27,7 @@
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="ordered_list.php" type="PLAIN_TEXT" />
+      <mapping pattern="migration_dump" type="PLAIN_TEXT" />
       <mapping pattern="addsite" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-pma" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
