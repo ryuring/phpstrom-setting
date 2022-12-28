@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Name of the configured engine to use to read the resource identified by key." />
       <item value="This class is needed in order to provide a correct autocompletion feature when using the CakePHP migrations plugin. It has no effect on the migrations process." />
       <item value="Similar to reload() except that this doesn't reset all global state, as that leads to incorrect behavior in some plugin test case scenarios." />
       <item value="Whether there are more results to be fetched from the iterator" />
@@ -53,12 +54,11 @@
       <item value="Define fallback values for required constants and configuration." />
       <item value="Constraints" />
       <item value="legacy fixtures are managed by FixtureInjector" />
-      <item value="4.3.0 Disabling auto-fixtures is deprecated and only available using FixtureInjector fixture system." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="86" />
-        <entry key="JAPANESE" value="85" />
+        <entry key="ENGLISH" value="87" />
+        <entry key="JAPANESE" value="86" />
       </map>
     </option>
   </component>
