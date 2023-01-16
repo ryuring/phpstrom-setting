@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="If false, do not restrict referring URLs to local server. Careful with trusting external sources." />
+      <item value="If false, do not restrict referring URLs to local server." />
+      <item value="Default URL to use if HTTP_REFERER cannot be read from headers" />
       <item value="It can also check for HTTP caching headers like `Last-Modified`, `If-Modified-Since` etc. and return a response accordingly." />
       <item value="This Component checks for requests for different content types like JSON, XML, XMLHttpRequest(AJAX) and configures the response object and view builder accordingly." />
       <item value="Use Controller::getViewClasses() instead." />
@@ -51,14 +54,11 @@
       <item value="Optionally, the stripped characters can also be specified using the charlist parameter." />
       <item value="Optionally, the stripped characters can also be specified using" />
       <item value="Fixture Strategy Interface" />
-      <item value="Define fallback values for required constants and configuration. To customize constants and configuration remove this require and define the data required by your plugin here." />
-      <item value="and define the data required by your plugin here." />
-      <item value="To customize constants and configuration remove this require" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="90" />
-        <entry key="JAPANESE" value="89" />
+        <entry key="ENGLISH" value="93" />
+        <entry key="JAPANESE" value="92" />
       </map>
     </option>
   </component>
