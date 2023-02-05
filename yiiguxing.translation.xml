@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This method's definition of letters and integers includes unicode characters. Use `asciiAlphaNumeric()` if you want to exclude unicode." />
       <item value="Ensures" />
       <item value="Create a message for humans to understand why Security token is not matching" />
       <item value="If the node is the last child, or is a top level node with no subsequent node this method will return the same node without any changes" />
@@ -53,16 +54,15 @@
       <item value="If secureAttributes is set, these HTML attributes will be merged into the hidden input tags generated for the Security Component. This is especially useful to set HTML5 attributes like 'form'." />
       <item value="Generates a hidden field with a security hash based on the fields used in the form." />
       <item value="identical" />
-      <item value="verify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="97" />
-        <entry key="JAPANESE" value="96" />
+        <entry key="ENGLISH" value="98" />
+        <entry key="JAPANESE" value="97" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1674370517811" />
+    <option name="lastTrimTime" value="1675584250750" />
   </component>
 </application>
