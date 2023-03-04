@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Cannot start transaction strategy inside a transaction. ' . 'Ensure you have closed all open transactions." />
       <item value="`FormProtector` instance has not been created. Ensure you have loaded the `FormProtectionComponent`' . ' in your controller and called `FormHelper::create()` before calling `FormHelper::unlockField()`" />
       <item value="An allowed list of fields to be assigned to the entity. If not present the accessible fields list in the entity will be used." />
       <item value="prepare Data And Options" />
@@ -53,16 +54,15 @@
       <item value="Test Fixture" />
       <item value="Constraints Interface" />
       <item value="Table Schema Aware Interface" />
-      <item value="Dialect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="101" />
-        <entry key="JAPANESE" value="100" />
+        <entry key="ENGLISH" value="102" />
+        <entry key="JAPANESE" value="101" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1676201857097" />
+    <option name="lastTrimTime" value="1677909402141" />
   </component>
 </application>
