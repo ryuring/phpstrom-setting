@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="If space is not added after slash, the character after it remains lowercased" />
       <item value="Cannot start transaction strategy inside a transaction. ' . 'Ensure you have closed all open transactions." />
       <item value="`FormProtector` instance has not been created. Ensure you have loaded the `FormProtectionComponent`' . ' in your controller and called `FormHelper::create()` before calling `FormHelper::unlockField()`" />
       <item value="An allowed list of fields to be assigned to the entity. If not present the accessible fields list in the entity will be used." />
@@ -53,12 +54,11 @@
       <item value="Build the fixtures table schema from the fields property." />
       <item value="Test Fixture" />
       <item value="Constraints Interface" />
-      <item value="Table Schema Aware Interface" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="102" />
-        <entry key="JAPANESE" value="101" />
+        <entry key="ENGLISH" value="103" />
+        <entry key="JAPANESE" value="102" />
       </map>
     </option>
   </component>
